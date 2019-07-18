@@ -1,0 +1,10 @@
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\bin\Debug\EgiantsDomain.dll.config
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\bin\Debug\EgiantsDomain.dll
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\bin\Debug\EgiantsDomain.pdb
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\bin\Debug\EntityFramework.dll
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\bin\Debug\EntityFramework.xml
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\obj\Debug\EgiantsDomain.csprojResolveAssemblyReference.cache
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\obj\Debug\EgiantsDomain.dll
+C:\Users\jeeva\OneDrive\Documents\Visual Studio 2015\Projects\EgiantsWebsite\EgiantsDomain\obj\Debug\EgiantsDomain.pdb
