@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgiantsWebsite", "EgiantsWebsite\EgiantsWebsite.csproj", "{B79CC185-874B-420C-8BFA-46D3FBF03716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgiantsService", "EgiantsService\EgiantsService.csproj", "{D3A333E0-2400-4F20-8F73-0AFA71043E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgiantsDomain", "EgiantsDomain\EgiantsDomain.csproj", "{3AC36F68-9D2D-4EE1-8344-C9C732B1AE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79CC185-874B-420C-8BFA-46D3FBF03716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79CC185-874B-420C-8BFA-46D3FBF03716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79CC185-874B-420C-8BFA-46D3FBF03716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79CC185-874B-420C-8BFA-46D3FBF03716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A333E0-2400-4F20-8F73-0AFA71043E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A333E0-2400-4F20-8F73-0AFA71043E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A333E0-2400-4F20-8F73-0AFA71043E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A333E0-2400-4F20-8F73-0AFA71043E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC36F68-9D2D-4EE1-8344-C9C732B1AE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC36F68-9D2D-4EE1-8344-C9C732B1AE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC36F68-9D2D-4EE1-8344-C9C732B1AE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC36F68-9D2D-4EE1-8344-C9C732B1AE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
